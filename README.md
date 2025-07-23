@@ -83,6 +83,7 @@ https://github.com/telzo2000/cool936tb/blob/main/buildguide_for_cool936tb.md
 |18|Spacer<br>スペーサー|8|M2 6mm|DIY shop|10本400円程度|
 |19|Keyswitch<br>キースイッチ|36|chocV1及びV2対応|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)|１個100程度|
 |20|Keycap<br>キーキャップ|36|ロープロが最適|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)||
+|21|リセットスイッチ（タクトスイッチ）|2||[秋月電子](https://akizukidenshi.com/catalog/g/g108073/)|１個20円|
 
 <br>
 
@@ -97,7 +98,7 @@ https://github.com/telzo2000/cool936tb/blob/main/buildguide_for_cool936tb.md
 |17|Spacer<br>スペーサー|4|M2 6mm|DIY shop|10本400円程度|
 |18|Keyswitch<br>キースイッチ|36|cherry MX|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)|１個100程度|
 |19|Keycap<br>キーキャップ|36|cherry MX互換|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)||
-
+|20|リセットスイッチ（タクトスイッチ）|2||[秋月電子](https://akizukidenshi.com/catalog/g/g108073/)|１個20円|
 <br>
 
 <br>
